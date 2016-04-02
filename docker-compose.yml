@@ -1,3 +1,4 @@
 site:
+    build: .
     environment:
         VIRTUAL_HOST: arduinoday.ufpa.br
